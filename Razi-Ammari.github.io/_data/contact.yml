@@ -1,0 +1,17 @@
+# The contact options displayed in the sidebar.
+
+- type: github
+  icon: "fab fa-github"
+
+- type: linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/razi-ammari-58a231335/"
+
+# Uncomment once you add `social.email` in _config.yml
+# - type: email
+#   icon: "fas fa-envelope"
+#   noblank: true
+
+- type: rss
+  icon: "fas fa-rss"
+  noblank: true
