@@ -4,7 +4,7 @@ title: "IBM Containers, Kubernetes & Istio Track (7 badges)"
 date: 2025-06-20 12:00:00 +0100
 categories: certifications IBM
 tags: [IBM, Docker, Kubernetes, Istio, operators, microservices]
-image: /images/certif/IBM-Containers-Kubernetes-Istio-Track.png
+image: /images/certif/Advanced%20Kuberntes%20Operators%20IBM%20Certified.png
 ---
 ## Overview
 From **March to June 2025** I completed IBM's full containers & Kubernetes learning track — **seven badges**:
@@ -29,3 +29,12 @@ Combined with **CKS**, this gives me both the *build* and the *secure* side of c
 
 ## Verification
 The credential can be verified from my [LinkedIn certifications](https://www.linkedin.com/in/razi-ammari-58a231335/details/certifications/) page ("Show credential").
+
+
+## Certificates
+
+![Advanced Kubernetes Operators certificate](/images/certif/Advanced%20Kuberntes%20Operators%20IBM%20Certified.png)
+
+![Beyond the Basics: Istio and IBM Cloud Kubernetes Service certificate](/images/certif/Beyond%20the%20Basics%20Istio%20and%20IBM%20Cloud%20Kubernetes%20Service%20.png)
+
+![Containers & Kubernetes Essentials certificate](/images/certif/Containers%20%20Kubernetes%20Essentials%20IBM%20Certification.png)
