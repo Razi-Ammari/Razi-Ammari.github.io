@@ -4,7 +4,7 @@ title: "Fortinet Certified Associate in Cybersecurity (FCA)"
 date: 2025-07-05 12:00:00 +0100
 categories: certifications Fortinet
 tags: [Fortinet, FCA, FortiGate, network security, firewall]
-image: /images/certif/Fortinet-Certified-Associate-Cybersecurity.png
+image: /images/certif/Fortinet%20Certified%20Associate%20in%20Cybersecurity%20.png
 ---
 ## Overview
 In **July 2025** I earned the **Fortinet Certified Associate in Cybersecurity (FCA)**, valid until **July 2027**.
