@@ -4,7 +4,6 @@ title: "Cyber Security Internship at BIAT – SOC Detection & Incident Response 
 date: 2026-07-31 12:00:00 +0100
 categories: experience internship
 tags: [BIAT, SOC, Splunk, Sysmon, MITRE ATT&CK, incident response, Blue Team]
-image: /images/experience/Cyber-Security-Internship-BIAT-SOC-Lab.png
 ---
 ## Overview
 From **June to July 2026** I worked as a **Cyber Security Intern at BIAT** (Banque Internationale Arabe de Tunisie), contributing to cybersecurity and **SOC operations** within an enterprise banking IT environment.
