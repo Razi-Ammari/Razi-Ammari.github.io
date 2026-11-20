@@ -4,7 +4,6 @@ title: "Project: DailyOps – Agentic AI Operations Agent with IBM watsonx Orche
 date: 2026-02-15 12:00:00 +0100
 categories: projects ai
 tags: [agentic AI, IBM watsonx, Orchestrate, LLaMA-3, Vercel, STT, TTS]
-image: /images/projects/DailyOps-Agentic-AI-IBM-watsonx-Orchestrate.png
 ---
 ## Overview
 **DailyOps** is an AI-powered **operations control agent** built with **IBM watsonx Orchestrate** that automates the start of the workday by generating a **decision-ready daily briefing** from emails, meetings and tasks.
