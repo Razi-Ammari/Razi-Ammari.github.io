@@ -4,7 +4,6 @@ title: "Microsoft MSRC Security Researcher Acknowledgement"
 date: 2026-04-20 12:00:00 +0100
 categories: achievements bug-bounty
 tags: [MSRC, Microsoft, responsible disclosure, security research, access control, bug bounty]
-image: /images/competitions/Microsoft-MSRC-Security-Researcher-Acknowledgement.png
 ---
 ## Overview
 🚀 I'm proud to share that the **Microsoft Security Response Center (MSRC)** has officially **acknowledged a security vulnerability** I discovered and responsibly disclosed in **Microsoft Online Services**. 🔐
