@@ -3,7 +3,7 @@ layout: post
 title: "Foundational C# with Microsoft"
 date: 2025-02-10 12:00:00 +0100
 categories: certifications Microsoft
-tags: [C#, Microsoft, freeCodeCamp, .NET]
+tags: [CSharp, Microsoft, freeCodeCamp, .NET]
 image: /images/certif/Foundational-CSharp-Microsoft.png
 ---
 ## Overview
