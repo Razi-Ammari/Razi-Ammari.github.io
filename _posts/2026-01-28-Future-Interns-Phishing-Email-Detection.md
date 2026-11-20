@@ -4,7 +4,6 @@ title: "Future Interns Task 2 – Phishing Email Detection & Awareness"
 date: 2026-01-28 12:00:00 +0100
 categories: experience future-interns
 tags: [Future Interns, phishing, email security, SPF, DKIM, DMARC, security awareness]
-image: /images/experience/Future-Interns-Phishing-Email-Detection.png
 ---
 ## Overview
 Task 2 of my **Future Interns** internship focused on **phishing email detection** and **security awareness**.
