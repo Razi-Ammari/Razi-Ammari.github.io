@@ -4,7 +4,6 @@ title: "Selected as AWS Student Builder Group Leader – ESPRIT Monastir"
 date: 2026-11-16 12:00:00 +0100
 categories: achievements community
 tags: [AWS, community, leadership, Student Builder Groups, cloud computing]
-image: /images/competitions/AWS-Student-Builder-Group-Leader-ESPRIT.png
 ---
 ## Overview
 🎉 I'm officially an **AWS Student Builder Group Leader**! I've been selected by **Amazon Web Services** to represent **ESPRIT Monastir, Tunisia**.
