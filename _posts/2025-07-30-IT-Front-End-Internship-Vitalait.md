@@ -4,7 +4,6 @@ title: "IT & Front-End Development Internship – Vitalait Tunisie"
 date: 2025-07-30 12:00:00 +0100
 categories: experience internship
 tags: [internship, front-end, HTML, CSS, Bootstrap, IT asset management]
-image: /images/experience/IT-Front-End-Internship-Vitalait.png
 ---
 ## Overview
 In **July 2025** I joined **Vitalait Tunisie** as an **IT & Front-End Development Intern** (hybrid), one of Tunisia's leading dairy companies.
