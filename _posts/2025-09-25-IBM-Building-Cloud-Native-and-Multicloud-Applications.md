@@ -4,7 +4,7 @@ title: "IBM – Building Cloud-Native and Multicloud Applications"
 date: 2025-09-25 12:00:00 +0100
 categories: certifications IBM
 tags: [IBM, cloud native, multicloud, microservices, DevOps, Kubernetes]
-image: /images/certif/IBM-Building-Cloud-Native-and-Multicloud-Applications.png
+image: /images/certif/cert-ibm-cloud-native-multicloud.jpg
 ---
 ## Overview
 I earned the **IBM Building Cloud-Native and Multicloud Applications** certification in **September 2025** 🎓🌐 — a recognition focused on architecting applications for the future of enterprise IT.
