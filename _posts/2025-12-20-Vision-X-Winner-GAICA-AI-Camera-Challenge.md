@@ -4,7 +4,6 @@ title: "1st Place at GAICA – AI Camera Challenge Hackathon with Vision X"
 date: 2025-12-20 12:00:00 +0100
 categories: hackathon gaica
 tags: [hackathon, winner, AI, computer vision, YOLOv8, DeepSORT, OpenCV, Telegram]
-image: /images/competitions/Vision-X-Winner-GAICA-AI-Camera-Challenge.png
 ---
 ## Overview
 🏆 **We did it!** Our team **Vision X** won the **AI Camera Challenge Hackathon (GAICA)**, organized by **Novation City** in collaboration with **Anavid**.
