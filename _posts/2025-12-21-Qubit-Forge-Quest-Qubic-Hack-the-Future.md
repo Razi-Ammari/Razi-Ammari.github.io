@@ -4,7 +4,6 @@ title: "Hackathon Project: Qubit-Forge-Quest – Decentralized Compute Economy o
 date: 2025-12-21 12:00:00 +0100
 categories: hackathon qubic
 tags: [hackathon, blockchain, Qubic, tokenization, React, Node.js, MongoDB, JWT, OAuth]
-image: /images/competitions/Qubit-Forge-Quest-Qubic-Hack-the-Future.png
 ---
 ## Overview
 **Qubit-Forge-Quest (QFQ)** is a **decentralized compute marketplace** for the **Qubic** ecosystem, built for the **Nostromo Launchpad Track** of the **Qubic "Hack the Future" Hackathon**. It shows how computation can become a **transparent, scalable and fair on-chain economy**.
