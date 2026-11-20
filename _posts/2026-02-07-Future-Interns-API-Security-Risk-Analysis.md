@@ -4,7 +4,6 @@ title: "Future Interns Task 3 – API Security Risk Analysis (OWASP API Top 10)"
 date: 2026-02-07 12:00:00 +0100
 categories: experience future-interns
 tags: [Future Interns, API security, OWASP API Top 10, Postman, AppSec]
-image: /images/experience/Future-Interns-API-Security-Risk-Analysis.png
 ---
 ## Overview
 Task 3 was a professional, read-only **API Security Risk Analysis** of a public demo API — **JSONPlaceholder** (`GET /users`).
