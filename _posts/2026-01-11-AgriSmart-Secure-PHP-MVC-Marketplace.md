@@ -4,7 +4,7 @@ title: "Project: AgriSmart – Secure PHP 8 MVC Agriculture Marketplace"
 date: 2026-01-11 12:00:00 +0100
 categories: projects web
 tags: [PHP, MVC, MySQL, web security, CSRF, XSS, e-commerce, ESPRIT]
-image: /images/projects/AgriSmart-Secure-PHP-MVC-Marketplace.png
+
 ---
 ## Overview
 **AgriSmart** is a production-ready agriculture marketplace built with **pure PHP 8 and MySQL**, letting farmers and agricultural sellers buy, sell and manage products online through a secure, intuitive platform. *(Associated with ESPRIT.)*
