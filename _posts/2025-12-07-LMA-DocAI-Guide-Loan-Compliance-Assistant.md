@@ -4,7 +4,6 @@ title: "Project: LMA DocAI Guide – AI-Powered Loan Documentation & Compliance"
 date: 2025-12-07 12:00:00 +0100
 categories: projects ai
 tags: [AI, FinTech, compliance, React, Node.js, Express, MongoDB, JWT]
-image: /images/projects/LMA-DocAI-Guide-Loan-Compliance-Assistant.png
 ---
 ## Overview
 **LMA DocAI Guide** is an AI-powered loan documentation and compliance management system that helps loan officers and financial professionals manage loan documents and verify **covenant compliance**.
