@@ -16,7 +16,7 @@ A dedicated and results-driven **Computer Engineering student** at **ESPRIT** (2
 
 On the security side, I'm an **MSRC-recognized security researcher** — the **Microsoft Security Response Center** acknowledged a vulnerability I discovered and responsibly disclosed in Microsoft Online Services. I've worked hands-on in a **SOC** at **BIAT**, building a detection & incident-response lab with **Splunk**, **Sysmon** and **MITRE ATT&CK**, and I've delivered consultant-grade **web, email and API security assessments** at **Future Interns**. On the governance side, I'm an **ISO/IEC 27001:2022 Lead Auditor**.
 
-On the cloud side, I hold the **Oracle Cloud Infrastructure 2025 Networking Professional** and **Multicloud Architect Professional** certifications, IBM's **Cloud-Native & Multicloud Applications** certification, and I've trained deeply in **Kubernetes security (CKS)**, **Docker**, **Istio** and **Kubernetes Operators**. In total I hold **41 certifications** from Oracle, IBM, AWS, Fortinet, NVIDIA, MongoDB, TryHackMe and more.
+On the cloud side, I hold the **Oracle Cloud Infrastructure 2025 Networking Professional** and **Multicloud Architect Professional** certifications, IBM's **Cloud-Native & Multicloud Applications** certification, and I've trained deeply in **Kubernetes security (CKS)**, **Docker**, **Istio** and **Kubernetes Operators**. In total I hold **42 certifications** from Oracle, IBM, AWS, Fortinet, NVIDIA, MongoDB, TryHackMe and more.
 
 Beyond security and cloud, I love building: I led team **Vision X** to **1st place at the GAICA AI Camera Challenge** with a real-time YOLOv8 + DeepSORT analytics system, and I've shipped projects in **agentic AI** (IBM watsonx Orchestrate), **blockchain** (Qubic), **secure web development** (PHP MVC) and **C++/Qt** desktop systems.
 
@@ -46,7 +46,7 @@ Beyond security and cloud, I love building: I led team **Vision X** to **1st pla
 
 ---
 
-## Certifications (41)
+## Certifications (42)
 
 ### Cloud & Cloud-Native
 
@@ -76,6 +76,7 @@ Beyond security and cloud, I love building: I led team **Vision X** to **1st pla
 
 | Certification | Issuer | Date |
 |---|---|---|
+| [Cybersecurity Architecture](/posts/IBM-Cybersecurity-Architecture-Coursera/) | IBM (Coursera) | Mar 2026 |
 | [SOC Level 1](/posts/TryHackMe-SOC-Level-1/) | TryHackMe | Jul 2026 |
 | [Cyber Security 101](/posts/TryHackMe-Pre-Security-and-Cyber-Security-101/) | TryHackMe | Jul 2026 |
 | [Pre Security](/posts/TryHackMe-Pre-Security-and-Cyber-Security-101/) | TryHackMe | Jul 2026 |
