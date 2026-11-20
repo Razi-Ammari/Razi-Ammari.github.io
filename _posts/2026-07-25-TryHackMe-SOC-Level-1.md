@@ -4,7 +4,7 @@ title: "SOC Level 1 Certification Achieved!"
 date: 2026-07-25 12:00:00 +0100
 categories: certifications TryHackMe
 tags: [TryHackMe, SOC, Blue Team, SIEM, Splunk, Wireshark, incident response]
-image: /images/certif/TryHackMe-SOC-Level-1.png
+image: /images/certif/THM%20Soc%20Level%201%20Certification.png
 ---
 ## Overview
 🔥 Another milestone unlocked! I've completed the **SOC Level 1** learning path on **TryHackMe** (credential ID `THM-7HIFGW1DEY`, **July 2026**).
