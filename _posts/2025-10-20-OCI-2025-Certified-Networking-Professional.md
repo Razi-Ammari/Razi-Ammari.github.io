@@ -4,7 +4,7 @@ title: "OCI 2025 Certified Networking Professional Achieved!"
 date: 2025-10-20 12:00:00 +0100
 categories: certifications Oracle
 tags: [Oracle, OCI, cloud networking, VCN, FastConnect, Professional]
-image: /images/certif/OCI-2025-Certified-Networking-Professional.png
+image: /images/certif/cert-oci-networking-professional.jpg
 ---
 ## Overview
 Thrilled to share that I've earned the **Oracle Cloud Infrastructure 2025 Certified Networking Professional** certification ✨ (issued **October 2025**, valid until **October 2027**).
