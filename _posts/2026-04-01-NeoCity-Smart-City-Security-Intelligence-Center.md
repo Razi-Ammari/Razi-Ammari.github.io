@@ -3,8 +3,7 @@ layout: post
 title: "Project: NeoCity – Smart City Platform with a Security & Intelligence Command Center"
 date: 2026-04-01 12:00:00 +0100
 categories: projects desktop
-tags: [C++, Qt, Oracle Database, smart city, intrusion detection, ESPRIT]
-image: /images/projects/NeoCity-Smart-City-Security-Intelligence-Center.png
+tags: [Cpp, Qt, Oracle Database, smart city, intrusion detection, ESPRIT]
 ---
 ## Overview
 **NeoCity** is a **smart-city control center** desktop application built in **C++ / Qt** with an **Oracle Database** back-end. Its flagship module is the **Security & Intelligence Command Center**.
