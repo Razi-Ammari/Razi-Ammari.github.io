@@ -4,7 +4,7 @@ title: "AWS Cloud Foundations – Cloud Quest, Serverless & Cloud Essentials"
 date: 2025-02-20 12:00:00 +0100
 categories: certifications Amazon
 tags: [AWS, cloud computing, serverless, IAM, Cloud Practitioner]
-image: /images/certif/AWS-Cloud-Foundations.png
+image: /images/certif/cert-aws-cloud-practitioner.jpg
 ---
 ## Overview
 Between **February and March 2025** I completed four AWS learning credentials:
