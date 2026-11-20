@@ -4,7 +4,6 @@ title: "Telecommunication & Networking Internship – Tunisie Telecom"
 date: 2025-08-30 12:00:00 +0100
 categories: experience internship
 tags: [internship, networking, telecom, ADSL, VDSL, troubleshooting]
-image: /images/experience/Telecommunication-Networking-Internship-Tunisie-Telecom.png
 ---
 ## Overview
 In **August 2025** I completed an on-site internship in the **Networking Division of Tunisie Telecom**, Tunisia's leading telecom operator.
