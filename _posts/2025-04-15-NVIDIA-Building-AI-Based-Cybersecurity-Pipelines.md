@@ -4,7 +4,7 @@ title: "NVIDIA – Building AI-Based Cybersecurity Pipelines"
 date: 2025-04-15 12:00:00 +0100
 categories: certifications NVIDIA
 tags: [NVIDIA, Morpheus, cyber threat intelligence, anomaly detection, AI]
-image: /images/certif/NVIDIA-Building-AI-Based-Cybersecurity-Pipelines.png
+image: /images/certif/cert-nvidia-ai-cybersecurity-pipelines.jpg
 ---
 ## Overview
 In **April 2025** I completed **Building AI-Based Cybersecurity Pipelines** from the **NVIDIA Deep Learning Institute** (credential ID `idWjXFg6TUqTgBFXA-1BkA`).
