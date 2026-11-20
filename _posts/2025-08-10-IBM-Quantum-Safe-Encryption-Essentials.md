@@ -4,7 +4,7 @@ title: "IBM – Quantum-Safe Encryption Essentials"
 date: 2025-08-10 12:00:00 +0100
 categories: certifications IBM
 tags: [IBM, post-quantum cryptography, encryption, cryptography]
-image: /images/certif/IBM-Quantum-Safe-Encryption-Essentials.png
+image: /images/certif/cert-ibm-quantum-safe.jpg
 ---
 ## Overview
 I earned **Quantum-Safe Encryption Essentials** from **IBM** in **August 2025**.
