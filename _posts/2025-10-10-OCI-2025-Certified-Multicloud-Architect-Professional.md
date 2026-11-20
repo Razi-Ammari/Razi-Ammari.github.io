@@ -4,7 +4,7 @@ title: "OCI 2025 Certified Multicloud Architect Professional Achieved!"
 date: 2025-10-10 12:00:00 +0100
 categories: certifications Oracle
 tags: [Oracle, OCI, multicloud, cloud architecture, Professional]
-image: /images/certif/OCI-2025-Certified-Multicloud-Architect-Professional.png
+image: /images/certif/cert-oci-multicloud-architect-professional.jpg
 ---
 ## Overview
 I'm officially a **Multicloud Architect Professional**! 🔥 I earned the **Oracle Cloud Infrastructure 2025 Certified Multicloud Architect Professional** certification (credential ID `323241158OCI2025MCAOCP`) in **October 2025**, after a month of intense preparation and hands-on practice.
