@@ -38,3 +38,10 @@ The credential can be verified from my [LinkedIn certifications](https://www.lin
 ![Beyond the Basics: Istio and IBM Cloud Kubernetes Service certificate](/images/certif/Beyond%20the%20Basics%20Istio%20and%20IBM%20Cloud%20Kubernetes%20Service%20.png)
 
 ![Containers & Kubernetes Essentials certificate](/images/certif/Containers%20%20Kubernetes%20Essentials%20IBM%20Certification.png)
+
+
+![Intermediate Kubernetes Operators certificate](/images/certif/cert-ibm-intermediate-kubernetes-operators.jpg)
+
+![Containers, K8s and Istio on IBM Cloud certificate](/images/certif/cert-ibm-containers-k8s-istio.jpg)
+
+![Getting Started with Microservices with Istio and IBM Cloud Kubernetes Service certificate](/images/certif/cert-ibm-microservices-istio.jpg)
